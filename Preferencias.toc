@@ -1,0 +1,7 @@
+## Interface: 90205
+## Title: Preferencias
+## Notes: Tratando de arreglar mis caprichos con la interfaz
+## Author: ElMeroPapu
+## Version: 0.0.1
+
+Modulos\Load.xml
