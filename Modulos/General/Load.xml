@@ -1,4 +1,5 @@
 <Ui xmlns='http://www.blizzard.com/wow/ui/'>
 	<Script file = "AutoReparacion.lua"/>
 	<Script file = "MarcoDialogo.lua"/>
+	<Script file = "AutoVender.lua"/>
 </Ui>
